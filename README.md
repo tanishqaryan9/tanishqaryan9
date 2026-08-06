@@ -48,13 +48,6 @@ Hello! I'm a Computer Science student at Graphic Era Hill University, Dehradun. 
 
 ---
 
-## 📊 GitHub Stats
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishqaryan9&theme=vue-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqaryan9&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
----
-
 ## 🧩 LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/tanishq_aryan22?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/tanishq_aryan22)
