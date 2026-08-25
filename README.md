@@ -1,6 +1,6 @@
 # Hi, I'm Tanishq Aryan! 👋
 
-Hello! I'm a Computer Science student at Graphic Era Hill University, Dehradun. I enjoy building real-world applications — from scalable backend systems to cross-platform mobile apps. I love taking on challenging problems and learning new technologies along the way.
+I'm a Computer Science student at **Graphic Era Hill University, Dehradun**, most at home in **backend and distributed-systems** work — Spring Boot APIs, Kafka event streams, and microservices that hold up in production. I default to **ownership**: I take the hard, unglamorous parts of a project and see them through to deploy. And I'm a **learn-it-all** — most of what I build today, I taught myself six months ago by shipping real projects.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishqaryan9&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -8,43 +8,47 @@ Hello! I'm a Computer Science student at Graphic Era Hill University, Dehradun. 
 
 ## 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science at Graphic Era Hill University, Dehradun (2024–2028)
-- ⚙️ Building full-stack apps with **Spring Boot** (backend) and **Flutter** (mobile)
-- 🧠 Implemented Redis caching, Kafka event streams, Docker CI/CD in real projects
-- 🏆 **Top 10** at Hackathon — built an AI-powered accessibility desktop assistant
-- 🧩 Active on **LeetCode** with a 100 Days Badge — solving in Java & C++
-- 🚀 Always exploring new tech and building things that actually work
+- 🎓 Pursuing **B.Tech in Computer Science** at Graphic Era Hill University, Dehradun (2024–2028) · CGPA **8.03/10**
+- ⚙️ Building backend systems & microservices with **Spring Boot** and **Spring Cloud**; full-stack with **React** and **Flutter**
+- 🧠 Hands-on with **Redis** caching, **Kafka** event streams, **JWT/OAuth2** auth, and **Docker + Jenkins** CI/CD in real projects
+- 🤖 Shipped **MakeShift** — a live GenAI toolkit built on **Spring AI + Google Gemini**
+- 🏆 **Top 10** at the Hack-o-Holic hackathon — built an AI-powered accessibility desktop assistant
+- 🧩 **300+** problems solved on **LeetCode** (Java & C++), peak contest rating **~1610**, with a 100 Days badge
+- 🚀 I like taking messy, real-world problems and turning them into systems that actually work
 
 ---
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,py,spring,flutter,docker,postgres,mongodb,mysql,redis,kafka,firebase,git,github,aws,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,c,cpp,js,dart,spring,react,flutter,postgres,mysql,mongodb,redis,kafka,docker,jenkins,firebase,aws,git,github,postman)](https://skillicons.dev)
 
 ---
 
 ## 🌱 Currently Exploring
 
-- ☁️ Cloud infrastructure with AWS and environment-based deployments via Render CI/CD
-- 📱 Advanced Android & Flutter patterns with deeper UI/UX practices
-- 🔐 Application security — JWT, OAuth2, and secure API design
+- ☁️ Cloud & deployments — **AWS**, Render CI/CD, and containerised, environment-based rollouts
+- 🧱 System design & scalability — caching, messaging, and keeping services resilient under load
+- 🔎 Observability — distributed tracing and metrics (**Zipkin**, Actuator) beyond the basics
 - 🗄️ Scalable database design and query optimisation
 
 ---
 
 ## 🚀 Featured Projects
 
-**[JobHunt](https://github.com/tanishqaryan9/Job-Posting)** — Spring Boot · Flutter · Redis · Kafka · Docker · MySQL
-> Full-stack job platform for blue-collar workers. REST APIs with Spring Security, Redis caching, event-driven notifications, and Docker-based CI/CD on Render.
+**[JobHunt](https://github.com/tanishqaryan9/Job-Posting)** — Spring Boot · Flutter · PostgreSQL · Redis · Kafka · Docker
+> Full-stack hiring platform for blue-collar workers. Modular Spring Boot backend with REST APIs, JWT + Google/GitHub OAuth2, Kafka-driven notifications with FCM push, Redis-cached geo-search, and Docker + Jenkins CI/CD.
 
-**ReachClock** — Flutter · Firebase · Geolocation
-> Location-aware alarm that rings when you approach your destination — not at a fixed time. Built for commuters.
+**[MakeShift](https://github.com/tanishqaryan9/makeshift)** — Spring Boot 4 · Spring AI · Gemini · React 19 · Deepgram · PostgreSQL
+> A full-stack GenAI toolkit bundling four tools — an AI chat assistant, text-to-image generation, a voice studio (speech-to-text & text-to-speech via Deepgram), and a recipe generator — behind a single OAuth2/JWT login. **[Live Demo →](https://makeshift-blond.vercel.app)**
+
+**Distributed Job Board** — Spring Cloud · Eureka · OpenFeign · Zipkin · PostgreSQL
+> A job-board domain decomposed into 5 Spring Cloud microservices behind a Netflix Eureka registry and a centralized Config Server, with declarative OpenFeign clients and end-to-end distributed tracing (Micrometer + Zipkin).
 
 **[Tech Buddy](https://github.com/tanishqaryan9/Tech-Buddy)** — Python · Ollama · Google Gemini API
-> AI desktop assistant with visual overlays (arrows, highlights, tooltips) to guide users through device tasks. **Top 10 at Hackathon 🏆**
+> AI desktop assistant with visual overlays (arrows, highlights, tooltips) that guides users through device tasks step by step. **Top 10 at Hack-o-Holic 🏆**
 
 **Trip Expense Splitter** — C · Raylib · SQLite
-> Desktop expense manager with a dual priority-queue debt-settlement algorithm and an interactive draggable graph view, built entirely in C.
+> Desktop expense manager with a dual priority-queue debt-settlement algorithm and an interactive draggable graph view — built entirely in C.
 
 ---
 
